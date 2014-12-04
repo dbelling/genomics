@@ -1,0 +1,38 @@
+3.315467e-01 	 silva|EU071537|1|1509| uncultured Acinetobacter sp.
+3.115163e-01 	 silva|BX897699|1583137|1584628| Bartonella henselae
+3.579710e-01 	 silva|AJ250247|1|1455| Bartonella quintana
+2.410022e-01 	 silva|AF084850|1|1436| Bdellovibrio bacteriovorus
+2.418313e-01 	 silva|BX640428|97283|98814| Bordetella parapertussis
+3.376665e-01 	 silva|BX640417|66117|67648| Bordetella pertussis
+3.263475e-01 	 silva|AF208508|1|1472| Bradyrhizobium japonicum
+2.395991e-01 	 silva|AY513527|1|1412| Brucella melitensis
+3.668102e-01 	 silva|M27039|1|1547| Buchnera aphidicola
+3.439412e-01 	 silva|AANK01000003|466|1969| Campylobacter jejuni subsp. jejuni 260.94
+2.169881e-01 	 silva|AE005673|2840172|2841610| Caulobacter crescentus CB15
+2.179260e-01 	 silva|EU693450|1|1505| Chromobacterium violaceum
+2.866212e-01 	 silva|AY342037|1|1457| Coxiella burnetii
+2.052179e-01 	 silva|AY362360|1|1510| Desulfovibrio vulgaris
+2.839094e-01 	 silva|AB045730|1|1534| Escherichia coli
+2.394729e-01 	 silva|AE017180|1224149|1225696| Geobacter sulfurreducens PCA
+3.205646e-01 	 silva|AY613472|1|1538| Haemophilus influenzae
+3.445554e-01 	 silva|U07573|1|1470| Helicobacter hepaticus
+2.280781e-01 	 silva|AY062899|1|1492| Helicobacter pylori
+1.833917e-01 	 silva|AF310340|1|1471| Neisseria meningitidis
+2.480611e-01 	 silva|EU918692|1|1499| Pasteurella multocida
+2.334031e-01 	 silva|CR378665|83603|85179| Photobacterium profundum
+1.837802e-01 	 silva|D78004|1|1483| Photorhabdus luminescens
+1.977793e-01 	 silva|X06684|1|1537| Pseudomonas aeruginosa
+1.718223e-01 	 silva|EU620069|1|1570| Pseudomonas putida
+2.434918e-01 	 silva|AY574913|1|1531| Pseudomonas syringae
+3.145652e-01 	 silva|AL646052|3277704|3279237| Ralstonia solanacearum
+3.212272e-01 	 silva|U12460|1|1436| Rickettsia conorii
+2.073174e-01 	 silva|AJ235272|177323|178829| Rickettsia prowazekii
+2.068513e-01 	 silva|U90316|1|1541| Salmonella typhimurium
+2.055735e-01 	 silva|AE014299|2973049|2974577| Shewanella oneidensis MR-1
+2.138324e-01 	 silva|EF643609|1|1542| Shigella flexneri
+2.368809e-01 	 silva|AY513500|1|1491| Vibrio cholerae
+3.175430e-01 	 silva|BA000021|136582|138132| Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis
+5.578112e-01 	 silva|AY026912|1|1458| Wolbachia pipientis
+2.087665e-01 	 silva|AF442743|1|2165| Xanthomonas axonopodis pv. citri
+2.133251e-01 	 silva|AE003849|172274|173818| Xylella fastidiosa 9a5c
+3.966459e-02 	 silva|AJ232231|1|1477| Yersinia pestis

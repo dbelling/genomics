@@ -1,0 +1,47 @@
+Applying the motif mapping to the algorithm produces the following output:
+
+CpG Island 1: 268 bp (17242 - 17509)
+CpG Island 2: 255 bp (17958 - 18212)
+CpG Island 3: 202 bp (122941 - 123142): Gene - ABCG1 Motif - RFX5_known7
+CpG Island 4: 283 bp (147448 - 147730): Gene - AP001622.1 Motif - INSM1_1
+CpG Island 5: 213 bp (164044 - 164256): Gene - AP001622.1 Motif - NR1H_1
+CpG Island 6: 334 bp (478368 - 478701): Gene - AP001624.1 Motif - NR2E1::NFIC_1
+CpG Island 7: 279 bp (552359 - 552637): Gene - AP001624.1
+CpG Island 8: 264 bp (602443 - 602706): Gene - AP001624.1 Motif - SIN3A_disc5
+CpG Island 9: 250 bp (602709 - 602958): Gene - AP001624.1
+CpG Island 10: 218 bp (901494 - 901711): Gene - PKNOX1 Motif - GFI1B_1
+CpG Island 11: 290 bp (902733 - 903022): Gene - PKNOX1 Motif - POU3F1_2
+CpG Island 12: 295 bp (1037379 - 1037673): Gene - U2AF1
+CpG Island 13: 366 bp (1075978 - 1076343): Gene - AP001631.10
+CpG Island 14: 349 bp (1108451 - 1108799): Gene - AP001631.10 Motif - NHLH1_3
+CpG Island 15: 217 bp (1192661 - 1192877): Gene - AP001631.10
+CpG Island 16: 212 bp (1222026 - 1222237): Gene - AP001631.10
+CpG Island 17: 335 bp (1271365 - 1271699): Gene - AP001631.10
+CpG Island 18: 218 bp (1312009 - 1312226): Gene - AP001631.10 Motif - NFKB_known6
+CpG Island 19: 235 bp (1349932 - 1350166): Gene - AP001631.10
+CpG Island 20: 221 bp (1384355 - 1384575): Gene - AP001631.10 Motif - REST_known3
+CpG Island 21: 220 bp (1434949 - 1435168): Gene - AP001631.10 Motif - NKX6-1_3
+CpG Island 22: 241 bp (1610548 - 1610788): Gene - RRP1B
+CpG Island 23: 225 bp (1677330 - 1677554): Gene - AP001052.1 Motif - TRIM28_disc2
+CpG Island 24: 233 bp (1710905 - 1711137): Gene - RRP1 Motif - SIN3A_disc7
+CpG Island 25: 453 bp (1715627 - 1716079): Gene - RRP1 Motif - HIC1_5
+CpG Island 26: 245 bp (1756195 - 1756439): Gene - RRP1
+CpG Island 27: 237 bp (1811715 - 1811951): Gene - AGPAT3
+CpG Island 28: 209 bp (2006026 - 2006234): Gene - AB001523.1
+CpG Island 29: 281 bp (2130984 - 2131264): Gene - AB001523.1 Motif - ZSCAN4_3
+CpG Island 30: 363 bp (2142089 - 2142451): Gene - AB001523.1
+CpG Island 31: 208 bp (2168578 - 2168785): Gene - DNMT3L Motif - NR3C1_disc6
+CpG Island 32: 275 bp (2177717 - 2177991): Gene - DNMT3L
+CpG Island 33: 342 bp (2179809 - 2180150): Gene - DNMT3L Motif - POU2F2_disc2
+CpG Island 34: 345 bp (2223468 - 2223812): Gene - PFKL Motif - NFKB_disc2
+CpG Island 35: 253 bp (2235525 - 2235777): Gene - PFKL Motif - RFX5_known3
+CpG Island 36: 282 bp (2279222 - 2279503): Gene - AP001062.7 Motif - IKZF1_2
+CpG Island 37: 269 bp (2279700 - 2279968): Gene - AP001062.7 Motif - ZFX_1
+CpG Island 38: 374 bp (2292263 - 2292636): Gene - AP001062.7 Motif - EWSR1::FLI1_1
+CpG Island 39: 206 bp (2710448 - 2710653): Gene - UBE2G2 Motif - MEF2_known7
+CpG Island 40: 206 bp (2723975 - 2724180): Gene - SUMO3 Motif - RREB1_2
+CpG Island 41: 286 bp (2835657 - 2835942): Gene - ITGB2 Motif - CEBPG_1
+CpG Island 42: 251 bp (2881666 - 2881916): Gene - C21orf67 Motif - MEF2_known1
+CpG Island 43: 517 bp (3436076 - 3436592): Gene - COL18A1 Motif - HMBOX1_1
+
+Of the 43 CpG islands, 27 mapped to motifs listed in the motif file.

@@ -1,0 +1,4 @@
+Dan Belling (belli058) - 3823441
+
+To successfully run this program, please ensure that the current working directory in matlab contains a subdirectory called 'sequences'
+as directly included from the zipped RNA files, which contains all fasta files. Run the program by typing homework4 on the command line.
